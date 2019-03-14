@@ -1,7 +1,10 @@
+
 orange
 pink
 blue
 green
+unicorn
 red
 grey
 these are the colors of the rainbow
+and the unicorn.
